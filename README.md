@@ -2,7 +2,7 @@
 
 ## Nasıl PR atılır?
 
-1. https://github.com/SerkanDotDev/LinqDokuman Adresinden repoyu forklayın.
+1. Bu repoyu üst tarafta bulunan fork butonuyla forklayın.
 2. Forklanmış repo sayfasındaki code butonuna tıklayın ve açılan penceredenki linki kopyalayın.
 3. Masaüstünüzde bir klasör açın.
 4. Klasöre sağ tıklayın.
